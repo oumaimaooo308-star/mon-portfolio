@@ -1,0 +1,1 @@
+Ce projet est un mini-projet pour apprendre Git et GitHub
